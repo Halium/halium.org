@@ -2,6 +2,7 @@
 layout: post
 title:  "Halium is in the air!"
 date:   2017-04-24 10:07:34 +0530
+author: "Bhushan Shah (bshah)"
 categories: announcements
 ---
 
