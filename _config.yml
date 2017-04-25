@@ -25,6 +25,8 @@ github_username:  halium
 
 # Build settings
 markdown: kramdown
+disqus:
+    shortname: haliumorg
 theme: minima
 gems:
   - jekyll-feed
