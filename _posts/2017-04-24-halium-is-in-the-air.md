@@ -49,6 +49,7 @@ There are many members who contributed to our initial draft document, and some n
 - Aleksi Suomalainen
 - Lewis Rockliffe
 - Michaël Serpieri
+- Rohan Garg
 - JBB
 
 ## Still have questions?
