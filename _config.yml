@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Halium Project
-email: admin@halium.org
+#email: admin@halium.org
 description: > # this means to ignore newlines until "baseurl:"
     Halium project aims to unify the hardware abstraction layers of different projects
     targetting mobile android devices.
