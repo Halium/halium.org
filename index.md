@@ -30,4 +30,6 @@ This project however don't want to control the following higher level parts of s
 - User interface
 - Applications
 
-This is left upon the distribution to decide.
+This is left upon the distribution to decide, See following graphics for better understanding
+
+![architecture](img/architecture.png)
