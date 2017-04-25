@@ -50,4 +50,4 @@ There are many members who contributed to our initial draft document, and some n
 
 ## Still have questions?
 
-Feel free to join us on our IRC channel at #halium on freenode, or at matrix #halium:matrix.org or on telegram https://t.me/halium
+Feel free to join us on our IRC channel at #halium on freenode, or at matrix #halium:matrix.org or on telegram [https://t.me/halium](https://t.me/halium)
