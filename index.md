@@ -8,7 +8,7 @@ title: "Halium Project"
 
 # Introduction
 
-Halium is collaborative project to unify the Hardware Abstraction Layer for projects which run GNU/Linux on mobile devices with pre-installed Android.
+Halium is the collaborative project to unify the Hardware Abstraction Layer for projects which run GNU/Linux on mobile devices with pre-installed Android.
 
 Project Halium will contain:
 
@@ -16,7 +16,7 @@ Project Halium will contain:
 - Android services required to talk with hardware
 - Libhybris
 
-In addition, Project Halium also aims to standardise the middleware software used by various projects to talk with android daemons and make use of hardware, for instance:
+In addition, Project Halium also aims to standardize the middleware software used by various projects to talk with android daemons and make use of hardware, for instance:
 
 - OFono/RILd
 - Camera service
