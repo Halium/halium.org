@@ -21,6 +21,8 @@ GEM
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-sitemap (1.1.1)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -47,11 +49,12 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.4.3)
   jekyll-feed (~> 0.6)
+  jekyll-sitemap (~> 1.1)
   minima (~> 2.0)
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.4.0p0
+   ruby 2.1.9p490
 
 BUNDLED WITH
-   1.14.2
+   1.15.1
