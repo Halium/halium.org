@@ -1,0 +1,4 @@
+# robots.txt of halium.org
+
+User-agent: *
+Sitemap: {{ site.url }}/sitemap.xml
