@@ -1,10 +1,10 @@
 <!-- Twitter Card -->
-<meta name="twitter:card" content="{% if page.image %}summary_large_image{% else %}summary{% endif %}">
+<meta name="twitter:card" content="{% if page.twitter_image %}summary_large_image{% else %}summary{% endif %}">
 <meta name="twitter:site" content="@{{ site.twitter_username }}">
 <meta name="twitter:creator" content="@{{ site.twitter_username }}">
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description}}{% endif %}">
-{% if page.image %}
-    <meta name="twitter:image:src" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">
+{% if page.twitter_image %}
+    <meta name="twitter:image:src" content="{{ page.twitter_image | prepend: site.baseurl | prepend: site.url }}">
 {% endif %}
 <!-- End Twitter Card -->
