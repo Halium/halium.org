@@ -4,6 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: "Halium Project"
+image:
+  - url: architecture.png
+    alt: architecture
 ---
 
 # Introduction
@@ -31,4 +34,4 @@ This project will not control the following higher level parts of the stack. Eac
 - User interface
 - Applications
 
-![architecture](img/architecture.png)
+{% image 0 %}
