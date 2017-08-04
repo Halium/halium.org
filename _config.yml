@@ -23,11 +23,6 @@ url: "https://halium.org" # the base hostname & protocol for your site, e.g. htt
 twitter_username: haliumproject
 github_username:  halium
 
-# Image resizing
-raw_images: "img/raw"
-opt_images: "img/optimised"
-image_layout: "optimised_image.html"
-
 # Build settings
 markdown: kramdown
 disqus:

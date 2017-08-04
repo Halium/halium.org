@@ -468,16 +468,3 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
-
-/* Only visible for screen readers */
-/* Taken from Twitter Bootstrap 3 */
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  border: 0;
-}
