@@ -38,7 +38,7 @@ However Project Halium wants to see the comic as below,
 
 To explain further, Project Halium doesn't aim to replace any of the phone distributions that are currently available but wants to be part of them. Project Halium is aiming to be the common platform that can be reused by these communites.
 
-More details are documented at the [project planning](https://github.com/Halium/docs/blob/master/Planning.md) page and [development outline](https://github.com/Halium/docs/blob/master/Development.md) page.
+More details are documented at the [project planning](https://github.com/Halium/docs/blob/master/Planning.rst) page and [development outline](https://github.com/Halium/docs/blob/master/Development.rst) page.
 
 ## Who are we?
 
