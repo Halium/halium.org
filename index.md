@@ -49,7 +49,7 @@ Most distributions are discussing with one another to work towards using the sam
 
 ### Which communities are involved with Halium?
 
-[LuneOS](http://www.webos-ports.org/wiki/Main_Page), [Ubuntu Touch](https://ubuntu-touch.io)... We're only missing you!
+[LuneOS](http://www.webos-ports.org/wiki/Main_Page), [Ubuntu Touch](https://ubuntu-touch.io), [Droidian](https://droidian.org/), ... We're only missing you!
 
 ### Why aren't you enhancing the Mer Project instead of creating a new one?
 
